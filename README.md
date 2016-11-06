@@ -16,4 +16,7 @@ This is a Hindi Soft Keyboard for Android Devices.
 ![English Numerals](/img/4.png)
 
 
+## Licence:
+  - [MIT] Licence
   
+[MIT]: <https://opensource.org/licenses/MIT> 
