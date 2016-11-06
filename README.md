@@ -17,6 +17,6 @@ This is a Hindi Soft Keyboard for Android Devices.
 
 
 ## Licence:
-  - [MIT] Licence
+> [MIT Licence]
   
-[MIT]: <https://opensource.org/licenses/MIT> 
+[MIT License]: <https://opensource.org/licenses/MIT> 
